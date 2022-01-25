@@ -7,3 +7,10 @@ h3{
 ol{
     font-size: larger; color:salmon;
 }
+#titulo{width: auto; font-size: 50px; height: auto; font-style: oblique; font-weight: bold; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.parrafo{width: 500px;
+}
+body{
+    margin-left: 1000px; padding: 2em;
+}
